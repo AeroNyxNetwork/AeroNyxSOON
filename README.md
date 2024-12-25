@@ -1,4 +1,4 @@
-# Solana Server Staking Contract
+# SOON Server Staking Contract
 
 ## Overview
 A decentralized staking contract built on Solana that enables server operators to participate in network validation through both direct staking and delegation mechanisms. This contract implements a flexible staking system with advanced features for server management and delegation.
