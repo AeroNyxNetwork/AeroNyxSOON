@@ -1,7 +1,7 @@
 # SOON Server Staking Contract
 
 ## Overview
-A decentralized staking contract built on Solana that enables server operators to participate in network validation through both direct staking and delegation mechanisms. This contract implements a flexible staking system with advanced features for server management and delegation.
+A decentralized staking contract built on SOON that enables server operators to participate in network validation through both direct staking and delegation mechanisms. This contract implements a flexible staking system with advanced features for server management and delegation.
 
 ## Key Features
 - **Server Registration**: Operators can register servers with unique identifiers and custom names
@@ -48,7 +48,7 @@ The contract emits events for all major operations:
 - Account management
 
 ## Requirements
-- Solana Program Library (SPL)
+- SOON Program Library (SPL)
 - Anchor Framework
 - Associated Token Program
 
@@ -83,4 +83,4 @@ Comprehensive error handling for common scenarios:
 - Stake limit violations
 
 ## License
-[License information to be added]
+#
